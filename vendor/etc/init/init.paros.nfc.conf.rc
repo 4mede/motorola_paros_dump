@@ -1,0 +1,5 @@
+on property:ro.vendor.hw.nfc=ese_nq
+   setprop persist.vendor.nfc.config_file_name libnfc-SN220T.conf
+
+on property:ro.vendor.hw.nfc=nq
+   setprop persist.vendor.nfc.config_file_name libnfc-SN220E.conf

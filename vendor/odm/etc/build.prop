@@ -1,0 +1,32 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.odm.brand=motorola
+ro.product.odm.device=paros
+ro.product.odm.manufacturer=motorola
+ro.product.odm.model=paros
+ro.product.odm.name=paros
+ro.odm.product.cpu.abilist=arm64-v8a,armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist32=armeabi-v7a,armeabi
+ro.odm.product.cpu.abilist64=arm64-v8a
+ro.odm.build.date=Mon Feb  9 14:41:45 CST 2026
+ro.odm.build.date.utc=1770669705
+ro.odm.build.fingerprint=motorola/paros/paros:15/VUQ35HV-W1-ST28/485db0:user/release-keys
+ro.odm.build.id=VUQ35HV-W1-ST28
+ro.odm.build.tags=release-keys
+ro.odm.build.type=user
+ro.odm.build.version.incremental=485db0
+ro.odm.build.version.release=15
+ro.odm.build.version.release_or_codename=15
+ro.odm.build.version.sdk=35
+####################################
+# from variable ADDITIONAL_ODM_PROPERTIES
+####################################
+ro.vendor.qti.va_odm.support=1
+####################################
+# from variable PRODUCT_ODM_PROPERTIES
+####################################
+ro.odm.build.media_performance_class=0
+# end of file
+
