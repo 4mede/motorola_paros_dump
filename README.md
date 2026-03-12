@@ -1,0 +1,14 @@
+# user 16 VUQ35HV-W1-ST28 485db0 release-keys
+- manufacturer: motorola
+- platform: parrot
+- codename: paros
+- flavor: user
+- release: 16
+- id: VUQ35HV-W1-ST28
+- incremental: 485db0
+- tags: release-keys
+- fingerprint: motorola/paros/paros:15/VUQ35HV-W1-ST28/485db0:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-16-VUQ35HV-W1-ST28-485db0-release-keys
+- repo: motorola_paros_dump

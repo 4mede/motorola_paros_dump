@@ -1,0 +1,21 @@
+####################################
+# from generate-common-build-props
+# These properties identify this partition image.
+####################################
+ro.product.vendor_dlkm.brand=motorola
+ro.product.vendor_dlkm.device=paros
+ro.product.vendor_dlkm.manufacturer=motorola
+ro.product.vendor_dlkm.model=paros
+ro.product.vendor_dlkm.name=paros
+ro.vendor_dlkm.build.date=Mon Feb  9 14:41:45 CST 2026
+ro.vendor_dlkm.build.date.utc=1770669705
+ro.vendor_dlkm.build.fingerprint=motorola/paros/paros:15/VUQ35HV-W1-ST28/485db0:user/release-keys
+ro.vendor_dlkm.build.id=VUQ35HV-W1-ST28
+ro.vendor_dlkm.build.tags=release-keys
+ro.vendor_dlkm.build.type=user
+ro.vendor_dlkm.build.version.incremental=485db0
+ro.vendor_dlkm.build.version.release=15
+ro.vendor_dlkm.build.version.release_or_codename=15
+ro.vendor_dlkm.build.version.sdk=35
+# end of file
+
